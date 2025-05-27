@@ -61,5 +61,7 @@ pip install -r requirements.txt
 
 ## 🙌 Author
 
+***USMAN***   Profile-link [Usman361-AI]
+
 This project was built as a demonstration of transformer models on simple text. Feel free to fork and extend with larger datasets!
 
